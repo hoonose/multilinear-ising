@@ -1,6 +1,7 @@
 Code associated with [Concentration of Multilinear Functions of the Ising Model with Applications to Network Data](https://arxiv.org/abs/1710.04170), by [Constantinos Daskalakis](http://people.csail.mit.edu/costis/), [Nishanth Dikkala](http://people.csail.mit.edu/nishanthd/), and [Gautam Kamath](http://www.gautamkamath.com/).
 Paper appeared at Advances in Neural Information Processing Systems 30 (NIPS 2017).
 
+Implementation is in MATLAB.
 To run processMusic.m, one requires the [HetRec 2011](https://grouplens.org/datasets/hetrec-2011/) dataset.
 This involves extracting [hetrec2011-lastfm-2k.zip](http://files.grouplens.org/datasets/hetrec2011/hetrec2011-lastfm-2k.zip) to the directory multilinear-ising/data.
 
